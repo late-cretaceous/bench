@@ -7,6 +7,11 @@ reads chemical formulas, and tracks significant figures.
 
 ## Running it
 
+It is hosted at <https://late-cretaceous.github.io/bench/>. Pushing to
+`main` updates it within a minute.
+
+To run it locally:
+
 ```
 python3 serve.py
 ```
